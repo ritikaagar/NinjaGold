@@ -1,0 +1,25 @@
+*{
+	margin: 10px;
+
+}
+
+fieldset{
+	display:inline-block;
+	width:100px;
+	margin: 10px;
+}
+
+div{
+	border:1px solid black;
+	width:940px;
+	display:inline-block;
+	text-overflow: scroll;
+	padding: 20px;
+}
+
+.win{
+	color:green;
+}
+.lose{
+	color:red;
+}
